@@ -1,7 +1,7 @@
 # ecommerce-microservices
 An e-commerce web app implementation with microservices architecture.
 
-This project is created while following a Udemy course "Micorservices with Node JS and React".
+This project is created using Node JS and React technology.
 
 You can pull this project and run it easily with kubernetes and skaffold using "skaffold dev" command.
 
